@@ -1,0 +1,6 @@
+1. A rock vs mine detection model created using linear regressionn model and supervised classification in binary analysis. 
+the train and test data have been obtained from the kaggle datasets. 
+the train data passed with more than 80 percent accuracy and the test data passed with more than 76 percent accuracy.
+
+2. A diabetes patient prediction model created usuing python in jupyter notebook
+it uses the concept of SVM AND SVC to classify the data
